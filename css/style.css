@@ -386,7 +386,7 @@ ul{
 /*-- //slider --*/
 /*-- header --*/
 .navbar-inverse {
-    background: rgba(0, 0, 0, 0.44);
+    background: rgba(5, 4, 107, 0.44);
     border: none;
     margin: 0;
     border-radius: 0px;
@@ -416,14 +416,14 @@ ul{
 }
 .about-right h2 {
     font-size: 2.5em;
-    color: #fff;
+    color: rgb(46, 17, 17);
 }
 .about-right h2 span {
     color: #000;
 }
 .about-right h4 {
     font-size: 1.1em;
-    color: #fff;
+    color: rgb(44, 39, 39);
     margin-top: 1em;
     letter-spacing: 2px;
 }
@@ -444,7 +444,7 @@ ul.address li b{
 ul.address li ul.agileits-address-text li {
     display: inline-block;
     font-size: 1.1em;
-    color: #fff;
+    color: rgb(61, 20, 20);
     margin-top: 1.5em;
     font-weight: 100;
 }
@@ -452,7 +452,7 @@ ul.address li ul.agileits-address-text li:nth-child(1){
 	width: 20%;
 }
 ul.address li ul.agileits-address-text li a {
-    color: #fff;
+    color: rgb(82, 34, 34);
 	text-decoration:none;
 	    letter-spacing: 2px;
 }
@@ -505,9 +505,9 @@ p.agile-br {
 }  
 a.wthree-more {
     padding: 0 1em;
-    border: 1px solid #fff;
+    border: 1px solid rgb(122, 85, 85);
     font-size: 1em;
-    color: #fff;
+    color: rgb(134, 10, 10);
     text-decoration: none;
     display: inline-block;
     text-transform: uppercase;
@@ -867,7 +867,7 @@ span.circles-text {
 .nav-tabs>li.active>a:focus {
 	color: #fff;
 	cursor: default;
-	background-color: #000;
+	background-color: rgb(11, 7, 19);
 	border: none;
 	border-bottom-color: transparent;
 }
