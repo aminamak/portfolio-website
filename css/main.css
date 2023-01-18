@@ -48,13 +48,13 @@ background-size: cover;*/
 }
 .m_nav_item a {
     text-decoration: none;
-    color: rgb(192, 10, 10);
+    color: rgb(230, 112, 112);
     font-size: 1em;
     -webkit-transition-duration: 0.5s;
 	 padding: 0.5em;
 }
 .m_nav_item a:hover {
-    color: #040347;
+    color: #7e1604;
 	background: rgb(236, 123, 123);
    
 
